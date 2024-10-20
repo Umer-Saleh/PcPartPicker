@@ -12,4 +12,4 @@ Steps
 7. COMMIT from vscode's source control menu   
 ```commit -> write commit comment -> click on ✔ -> Sync Changes```
 8. After completing your work, pull request to msk by clicking 
-![tutorial](/src/assets/TUTORIAL.png)
+![tutorial](/public/TUTORIAL.png)

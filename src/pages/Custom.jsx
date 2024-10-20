@@ -1,0 +1,1 @@
+// The page where PC can be customized by drag droping the components
