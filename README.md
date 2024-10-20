@@ -1,8 +1,15 @@
-# React + Vite
+# Pc Parts Picker
+Ecommerce Website - Group project for Human Computer Interation Course  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To become a contributor
+Steps  
+1. Fork Repository
+2. go to VSCODE
+3. Search on top write : ```>Git: Clone```, then hit enter
+4. select Repository name ```/PcPartPicker```
+5. A folder will be created at the destination you pick open that folder in VSCODE
+6. Work on your designated file only (component)
+7. COMMIT from vscode's source control menu   
+```commit -> write commit comment -> click on ✔ -> Sync Changes```
+8. After completing your work, pull request to msk by clicking 
+![tutorial](/public/TUTORIAL.png)
